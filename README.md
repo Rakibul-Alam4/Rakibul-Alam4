@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Rakibul Alam
+- Studying BSc Engineering in Computer Science and Engineering at American International University-Bangladesh (www.aiub.edu).
 - 👀 I’m interested in Software Engineering, Java Script, HTML, Web Development, Cyber Security.
 - 🌱 I’m currently studying in <a href = "https://www.aiub.edu/">AIUB </a> and learning Java Script for getting into full stack Web Development.
 - 💞️ I’m looking to collaborate on computer and software education for human betterment.
