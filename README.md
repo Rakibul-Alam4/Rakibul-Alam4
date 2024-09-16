@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakibul Alam
-- completed BSc Engineering in Computer Science and Engineering at American International University-Bangladesh (www.aiub.edu).
+- completed BSc Engineering in Computer Science and Engineering from American International University-Bangladesh (www.aiub.edu).
 - 👀 I’m interested in Software Engineering, .NET, Java Script, HTML, Web Development, Cyber Security.
-- 🌱 I’m currently studying in <a href = "https://www.aiub.edu/">AIUB </a> and learning Java Script for getting into full stack Web Development.
+- 🌱 I’m currently learning in .NET, Java Script and Data Science.
 - 💞️ I’m looking to collaborate on computer and software education for human betterment.
 - 📫 Reach me via +8801797484717<br>Email: alam.rakibul499@gmail.com
 
