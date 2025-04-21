@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakibul Alam
-- 🔭 I’m currently working on https://itesseract.com.bd/
+- 🔭 I’m currently working on itesseract.com.bd
 - completed BSc Engineering in Computer Science and Engineering from American International University-Bangladesh (www.aiub.edu).
 - 👀 I’m interested in Software Engineering, .NET, Java Script, HTML, Web Development, Cyber Security.
 - 🌱 I’m currently learning in .NET, Java Script and Data Science.
